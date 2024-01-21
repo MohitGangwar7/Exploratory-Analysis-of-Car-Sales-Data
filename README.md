@@ -1,5 +1,12 @@
 # Exploratory-Analysis-of-Car-Sales-Data
 
+# Page 1 : Overview
+![Overview Page](https://github.com/MohitGangwar7/Exploratory-Analysis-of-Car-Sales-Data/assets/157283590/9de39926-59f6-4dc5-a69a-ecfc64e30107)
+
+# Page 2 : Details
+![Details Page](https://github.com/MohitGangwar7/Exploratory-Analysis-of-Car-Sales-Data/assets/157283590/c7d2e548-25a6-480f-99f1-827f832b524f)
+
+
 # Car Sales Data Analysis using Power BI
 This repository contains an end-to-end project on analyzing car sales data using Power BI. The project includes a dynamic and interactive dashboard that uses advanced DAX functions to visualize the Critical KPI's & data helping us to understand our sales performance over time and make data-driven decisions.
 
